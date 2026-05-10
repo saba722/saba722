@@ -74,9 +74,17 @@ Currently a **Senior Associate Consultant at e& (Etisalat UAE)** — one of the 
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saba7222)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/saba7222)
 
 ---
 
 *Currently open to mid-to-senior developer opportunities.*  
 *Microsoft Dynamics 365 · Power Platform · Full-Stack (React / Node.js / C#)*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;CRM+Consultant;React+%7C+Node+%7C+.NET;Open+to+New+Opportunities&center=true&width=500&height=50)](https://git.io/typing-svg)
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,cs,js,ts,mysql,mongodb,git,azure" />
+</p>
+
+
