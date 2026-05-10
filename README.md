@@ -65,6 +65,9 @@ Currently a **Senior Associate Consultant at e& (Etisalat UAE)** — one of the 
 
 ## 📊 GitHub Stats
 
+![](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=0E7B6E)
+
+
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=saba722)
 
 ---
